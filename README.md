@@ -3,7 +3,7 @@ https://www.aminer.cn/grla_ecmlpkdd2020
 
 
 ## Tutorial Outline
-### Part 1 Introduction  [Slides]
+### Part 1 Introduction  [Slides][https://www.dropbox.com/s/f51y9afnn25c2dp/ecmlpkdd2020-tutorial-part0-intro.pdf?dl=0]
 
 ### Part 2 Network Embeddings [Slides]
 
